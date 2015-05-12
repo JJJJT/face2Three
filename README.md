@@ -2,5 +2,5 @@
 
 
 ##dependencies
-https://github.com/auduno/clmtrackr
-http://threejs.org/
+* https://github.com/auduno/clmtrackr
+* http://threejs.org/
